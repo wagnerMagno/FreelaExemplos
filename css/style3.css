@@ -145,3 +145,9 @@
         width: 95% !important;
     }
 }
+
+@media only screen and (max-width: 300px) {
+    .ca-main {
+        font-size: 18px;
+    }
+}
